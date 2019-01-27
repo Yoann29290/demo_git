@@ -1,4 +1,4 @@
 test de fichier JS
 
-//Mon super test numero 3
+//Suppression car en c'est en fait un simple test pour vérifier la synchro visual S. code avec mon gitHub
 
